@@ -1,0 +1,18 @@
+{
+  "name": "odeonstar",
+  "version": "1.0.0",
+  "description": "A Crawler for site odeonstar.com.au to get movies and times",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabino Santana <gsantana@dicep.com.ar> (http://www.linkedin.com/in/matias-gabino-santana-cabrera-71763625/)",
+  "license": "MIT",
+  "dependencies": {
+    "browserwithphantom": "^2.0.55",
+    "chalk": "^2.1.0",
+    "cheerio": "^1.0.0-rc.2",
+    "moment": "^2.18.1",
+    "request": "^2.82.0"
+  }
+}
